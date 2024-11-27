@@ -36,8 +36,8 @@ publishDir            = "public"
     favicon           = "https://res.bioit.top/sites/bi-favicon.png"
     searchImageL      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分浅色背景图
     searchImageD      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分深色背景图
-    logoExpandLight   = "https://github.com/WerAndRingo/WebStack-Assets/tree/main/logos/website-favicon.png"
-    logoExpandDark    = "https://github.com/WerAndRingo/WebStack-Assets/tree/main/logos/website-favicon.png"
+    logoExpandLight   = "https://res.bioit.top/sites/bioit-expand-dark.png"
+    logoExpandDark    = "https://res.bioit.top/sites/bioit-expand-light.png"
     logoCollapseLight = "https://res.bioit.top/sites/bi.png"
     logoCollapseDark  = "https://res.bioit.top/sites/bi.png"
 
