@@ -33,7 +33,7 @@ publishDir            = "public"
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://res.bioit.top/sites/bi-favicon.png"
+    favicon           = "https://github.com/WerAndRingo/WebStack-Assets/tree/main/logos/website-favicon.png"
     searchImageL      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分浅色背景图
     searchImageD      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分深色背景图
     logoExpandLight   = "https://res.bioit.top/sites/bioit-expand-dark.png"
